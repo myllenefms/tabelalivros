@@ -1,0 +1,18 @@
+
+#sessao{
+    border: solid blue 1px; /*ordem numero 2 */
+    margin-top: 50px;
+}
+
+
+.modal-dialog {
+    max-width: 50%;
+    margin: 1.75rem auto;
+    align-items: center;
+}
+
+.detalheLivro{
+    max-width: 25rem;
+    max-height: 20rem auto;
+    align-items: center;
+}

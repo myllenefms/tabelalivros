@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nome": "Todo Amor",
+        "imagem": "https://images-na.ssl-images-amazon.com/images/I/81ROxCHdNLL.jpg",
+        "descricao": "Reúne cartas, crônicas, poemas e letras de canções, compondo um painel admirável e emocionante, no qual deparamos com a alegria, a tristeza, o ciúme, a devoção absoluta, o arrependimento, o perdão, o lance cômico, a expectativa do fim, a veneração da mulher e a ética de um sentimento que inclui toda a humanidade."
+    },
+    {
+        "id": "2",
+        "nome": "Orçamentos sem falhas",
+        "imagem": "https://m.media-amazon.com/images/I/41-z0QlQajL.jpg",
+        "descricao": "Ajuda para melhorar sua relação com o dinherio, refletir onde é possível economizar, parar com os gastos desnecessários, entender todos os nomes que aparecem no aplicativo do banco e se organizar para enfim pagar as dívidas."
+    },
+    {
+        "id":"3",
+        "nome": "A mente organizada",
+        "imagem":"https://images-na.ssl-images-amazon.com/images/I/71+AWjQemML.jpg",
+        "descricao": "Aborda todos os aspectos da vida moderna e mostra que a organização inteligente pode melhorar nossa memória e atenção - e nos deixar mais criativos e perspicazes."
+    }
+]
